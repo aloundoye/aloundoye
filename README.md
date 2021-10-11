@@ -5,7 +5,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/aloutndoye"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/0fMVJUg.png"/></a>
+  <a href="https://twitter.com/aloutndoye"><img width="32px" alt="Twitter" title="Twitter" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/aloundoye"><img width="32px" alt="Dev.to" title="aloundoye Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
