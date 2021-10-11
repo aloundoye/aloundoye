@@ -3,6 +3,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&lines=Software+Engineer;Full-Stack+JavaScript+Developer;An+AI+Enthusiast;Always+Learning"></a>
+</p>
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://twitter.com/aloutndoye"><img width="32px" alt="Twitter" title="Twitter" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png"/></a>
