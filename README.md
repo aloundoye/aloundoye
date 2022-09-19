@@ -7,9 +7,9 @@ Full-Stack Developer
 I am a Full-Stack Software Engineer more focused on the front end with strong knowledge of software design, development, and testing. I help companies to build complex web applications with JavaScript and modern technologies.
 
 * 🌍  I'm based in Dakar, Senegal
-* 🖥️  See my portfolio at [https://alassane.dev/](http://https://alassane.dev/)
+* 🖥️  See my portfolio at [my website](https://alassane.dev/)
 * ✉️  You can contact me at [aloutndoye.an@gmail.com](mailto:aloutndoye.an@gmail.com)
-* 🚀  I'm currently working at [SOCIETE GENERALE SENEGAL](http://https://societegenerale.sn/)
+* 🚀  I'm currently working at [SOCIETE GENERALE SENEGAL](https://societegenerale.sn/)
 * 🧠  I'm learning Three.js, Spring
 * 🤝  I'm open to collaborating on projects
 
