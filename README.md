@@ -13,6 +13,8 @@ I am a Full-Stack Software Engineer more focused on the front end with strong kn
 * 🧠  I'm learning Three.js, Spring, Vue.js
 * 🤝  I'm open to collaborating on projects
 
+“I’m not a great programmer; I’m just a good programmer with great habits.” – Kent Beck.
+
 ### Skills
 
 <p align="left">
