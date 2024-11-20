@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-I am a Full-Stack Software Engineer more focused on the front end with strong knowledge of software design, development, and testing. I help companies to build complex web applications with JavaScript and modern technologies.
+I am a Full-Stack Software Engineer more focused on the Backend with strong knowledge of software design, development, and testing. I help companies to build complex web applications with JavaScript and modern technologies.
 
 * 🌍  I'm based in Dakar, Senegal
 * 🖥️  See my portfolio at [my website](https://portfolio-aloundoye.vercel.app)
