@@ -9,7 +9,7 @@ I am a Full-Stack Software Engineer more focused on the Backend with strong know
 * 🌍  I'm based in Dakar, Senegal
 * 🖥️  See my portfolio at [my website](https://portfolio-aloundoye.vercel.app)
 * ✉️  You can contact me at [aloutndoye.an@gmail.com](mailto:aloutndoye.an@gmail.com)
-* 🧠  I'm fluent in JavaScript, TypeScript, Node.js, React
+* 🧠  I'm fluent in JavaScript, TypeScript, Node.js, React, Java and Spring
 * 🤝  I'm open to collaborating on projects
 
 “I’m not a great programmer; I’m just a good programmer with great habits.” – Kent Beck.
