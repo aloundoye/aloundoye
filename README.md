@@ -68,15 +68,6 @@ I care about clean code, solid system design, and building things that don't bre
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aloundoye&show_icons=true&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloundoye&layout=compact&hide_border=true&langs_count=8" height="165"/>
-</p>
-
----
-
 ### 🔗 Let's connect
 
 <p align="left">
